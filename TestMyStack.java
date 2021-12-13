@@ -4,7 +4,7 @@ import lab05.MyStack;
 
 /**
  *
- * @author Van Ting
+ * @author isaacwong
  */
 
 public class TestMyStack {

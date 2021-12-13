@@ -11,7 +11,7 @@ import java.util.concurrent.RecursiveTask;
 
 /**
  *
- * @author vanting
+ * @author isaacwong
  */
 public class ForkJoinPiEstimator {
 

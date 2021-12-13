@@ -8,7 +8,7 @@ import java.util.Formatter;
 
 /**
  *
- * @author vanting
+ * @author isaacwong
  */
 public class Matrix {
 

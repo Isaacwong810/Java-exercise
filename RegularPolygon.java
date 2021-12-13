@@ -8,7 +8,7 @@ package lab03;
 /**
  * Regular Polygon.
  *
- * @author Van
+ * @author isaacwong
  */
 public class RegularPolygon {
 

@@ -11,7 +11,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author vanting
+ * @author isaacwong
  */
 public class TestGridLayout extends JFrame {
 

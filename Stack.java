@@ -8,7 +8,7 @@ package lab05.given;
 
 /**
  *
- * @author Van
+ * @author isaacwong
  * @param <E>
  */
 public interface Stack<E> {

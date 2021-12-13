@@ -7,7 +7,8 @@ package lab03;
 
 /**
  *
- * @author vanting
+ * @author isaacwong
+ 
  */
 public class CreateArrayOfCircle {
 

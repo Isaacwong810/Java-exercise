@@ -11,7 +11,7 @@ import java.awt.Dimension;
 
 /**
  *
- * @author vanting
+ * @author isaacwong
  */
 public class TestBorderLayout extends JFrame {
 

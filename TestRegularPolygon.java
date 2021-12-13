@@ -7,7 +7,7 @@ package lab03;
 
 /**
  *
- * @author Van
+ * @authorisaacwong
  */
 public class TestRegularPolygon {
 

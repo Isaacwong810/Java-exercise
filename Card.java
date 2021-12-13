@@ -7,7 +7,7 @@ package lab05.given;
 
 /**
  *
- * @author vanting
+ * @author issacwong
  */
 public class Card {
     

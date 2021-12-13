@@ -11,7 +11,7 @@ import javax.swing.JButton;
 
 /**
  *
- * @author vanting
+ * @author isaacwong
  */
 public class TestFlowLayout extends JFrame {
 

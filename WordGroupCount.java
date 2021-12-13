@@ -20,7 +20,7 @@ import java.util.stream.Stream;
 
 /**
  *
- * @author vanting
+ * @author isaacwong
  */
 public class WordGroupCount {
 
